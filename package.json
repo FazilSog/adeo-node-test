@@ -1,0 +1,22 @@
+{
+  "name": "wrk-node-adeo-to-send",
+  "version": "1.0.0",
+  "description": "this is a node js test",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --config jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FazilSog/adeo-node-test.git"
+  },
+  "author": "Fazil MEGHOUCHE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FazilSog/adeo-node-test/issues"
+  },
+  "homepage": "https://github.com/FazilSog/adeo-node-test#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
